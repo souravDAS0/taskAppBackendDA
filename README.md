@@ -1,8 +1,8 @@
-## TaskAppDA Backend
+# TaskAppDA Backend
 
 this is backend code for the Task Management Website made for Digital Avenues Machine Test Round.
 
-# clone repo Locally
+## clone repo Locally
 
 Type `git clone https://github.com/souravDAS0/taskAppBackendDA.git` to clone the Repo in your Local machine.
 
