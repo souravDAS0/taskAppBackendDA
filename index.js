@@ -10,6 +10,7 @@ const port = 3000;
 app.use(bodyParser.json());
 app.use(cors());
 
+//this URI is set to 'any IP can access'
 const uri =
   "mongodb+srv://papayd7098:sourav@cluster0.teqfemr.mongodb.net/tasks?retryWrites=true&w=majority";
 
